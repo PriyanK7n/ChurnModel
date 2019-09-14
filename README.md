@@ -1,5 +1,5 @@
 # ChurnModel
- churn means when  people leave the company as customers leaving at unusually high rates and we  want to understand what the problem is and to assess and address that problem.
+ churn means customers leaving a company at an unusually higher rate and So we want to understand what the problem is and to assess and address that problem.
 I've gotta take a sample of our customers.
 10 thousand is a tiny number for this bank.
 This bank has millions of customers,
